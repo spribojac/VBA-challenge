@@ -31,3 +31,7 @@ The attached screenshots show the summary of the results created by the script f
 ### Requirements
 -------------------------------------------------------------------------------------------------------------------------------------------------
 You will need Developer on your Excel and have macros enabled to run this script.
+
+### Credits
+-------------------------------------------------------------------------------------------------------------------------------------------------
+Thank you to the bootcamp study groups without which I wouldn't have figured out the "firstrow" conundrum!
