@@ -15,7 +15,7 @@ During this project I tested my VBA skills on fictious stock data collected betw
 
 There is an additional functionality which returns the stock with the greatest % decrease, greatest % increase, and largest total stock volume for a given year
 
-The decision was made to split the script into separate modules to allow the script to run more efficiently. 
+The decision was made to split the script into separate modules to allow the script to run more efficiently.
 
 ### VBA Module descriptions
 -------------------------------------------------------------------------------------------------------------------------------------------------
