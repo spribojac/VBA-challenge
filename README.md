@@ -7,7 +7,7 @@
 ## Module 2 VBA Challenge for University of Birmingham Data Analytics Bootcamp
 ### Description
 -------------------------------------------------------------------------------------------------------------------------------------------------
-During this project I tested my VBA skills on fictious stock data collected between 2018 and 2020. The VBA modules include loops that will loop through all the stocks for each year (sheet) and output the following information:
+During this project I tested my VBA skills on fictious stock data collected between 2018 and 2020. The VBA Module 5 includes loops that will loop through all the stocks for each year (sheet) and output the following information:
   - Ticker symbol
   - Yearly change from opening price at the beginning of a given year to the closing price at the end of that year
   - Percentage change from the opening price at the beginning of a given year to the closing price at the end of that year
@@ -15,7 +15,7 @@ During this project I tested my VBA skills on fictious stock data collected betw
 
 There is an additional functionality which returns the stock with the greatest % decrease, greatest % increase, and largest total stock volume for a given year
 
-The attached VBA files include the master script (all functions/calculations combined), and three separate modules to allow the script to run more efficiently if needed
+The entire function can be found in Module 5. The additional three modules separate the functions to allow the script to run more efficiently if needed.
 
 ### VBA Module descriptions
 -------------------------------------------------------------------------------------------------------------------------------------------------
