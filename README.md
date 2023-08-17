@@ -15,14 +15,15 @@ During this project I tested my VBA skills on fictious stock data collected betw
 
 There is an additional functionality which returns the stock with the greatest % decrease, greatest % increase, and largest total stock volume for a given year
 
-The decision was made to split the script into separate modules to allow the script to run more efficiently.
+The attached VBA files include the master script (all functions/calculations combined), and three separate modules to allow the script to run more efficiently if needed
 
 ### VBA Module descriptions
 -------------------------------------------------------------------------------------------------------------------------------------------------
-There are 3 modules in total and each module has the following function:
+There are 4 modules in total and each module has the following function:
  - Module 1 - extracts the data listed above
- - Module 2 - applies conditional formatting to the yearly change
+ - Module 2 - applies conditional formatting to the yearly change and percent change.
  - Module 3 - returns the stock with the greatest % decrease, greatest % increase, and largest total stock volume for a given year
+ - Module 5 - combined script containing all module functions listed above
 
 ### Screenshots
 -------------------------------------------------------------------------------------------------------------------------------------------------
@@ -34,4 +35,4 @@ You will need Developer on your Excel and have macros enabled to run this script
 
 ### Credits
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Thank you to the bootcamp study groups without which I wouldn't have figured out the "firstrow" conundrum!
+Thank you to the bootcamp study groups without which I wouldn't have figured out the "firstrow" conundrum! I also based my logic for the first section of the exercise on the 'credit card checker' exercise shared in class.
